@@ -1,6 +1,6 @@
 # Netflix Clone
 
-A responsive Netflix UI clone built using React.js.
+it's a clone of Netflix Login page.
 
 ## 🚀 Technologies Used
 - React
